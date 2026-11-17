@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://babiabsolut-arch.github.io/sitemap.xml
